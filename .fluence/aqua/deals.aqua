@@ -1,0 +1,24 @@
+aqua Deals declares *
+
+data Deal:
+    definition: string
+    timestamp: string
+    dealIdOriginal: string
+    dealId: string
+    chainNetwork: string
+    chainNetworkId: u64
+
+data Deals:
+    dealName: ?Deal
+
+func get() -> Deals:
+    <- Deals(
+        dealName=?[Deal(
+            definition="bafkreib3opmvidfnbc4hpp2t55w2oivmw3ptihvuq5dwlncnublqwor5qq",
+            timestamp="2023-12-03T17:15:33.940Z",
+            dealIdOriginal="0xf7695aB555971A6C7F57775fad02fCb5Fa049D1E",
+            dealId="f7695ab555971a6c7f57775fad02fcb5fa049d1e",
+            chainNetwork="testnet",
+            chainNetworkId=80001
+        )]
+    )
