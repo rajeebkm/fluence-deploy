@@ -1,0 +1,3 @@
+[[module]]
+name = "hello_world"
+load_from = "/Users/rajeeb/Work/personal/fluence-fil-bangalore/target/wasm32-wasi/release/hello_world.wasm"

@@ -1,0 +1,8 @@
+{
+  "aquaSettings.imports": [
+    "/Users/rajeeb/Work/personal/fluence-fil-bangalore/.fluence/aqua",
+    "/Users/rajeeb/.fluence/npm/@fluencelabs/aqua-lib/0.7.7/node_modules",
+    "/Users/rajeeb/.fluence/npm/@fluencelabs/spell/0.5.28/node_modules",
+    "/Users/rajeeb/.fluence/npm/@fluencelabs/registry/0.8.7/node_modules"
+  ]
+}

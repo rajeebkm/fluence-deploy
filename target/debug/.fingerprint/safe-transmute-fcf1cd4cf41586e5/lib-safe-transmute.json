@@ -1,0 +1,1 @@
+{"rustc":531893678563936333,"features":"[\"alloc\", \"default\", \"std\"]","target":3916664945231048275,"profile":16209747773763956088,"path":11722210742305209365,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"debug/.fingerprint/safe-transmute-fcf1cd4cf41586e5/dep-lib-safe-transmute"}}],"rustflags":[],"metadata":1405137643048346262,"config":2202906307356721367,"compile_kind":0}

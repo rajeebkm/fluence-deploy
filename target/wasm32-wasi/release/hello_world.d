@@ -1,0 +1,1 @@
+/Users/rajeeb/Work/personal/fluence-fil-bangalore/target/wasm32-wasi/release/hello_world.wasm: /Users/rajeeb/Work/personal/fluence-fil-bangalore/src/services/hello_world/modules/hello_world/src/main.rs

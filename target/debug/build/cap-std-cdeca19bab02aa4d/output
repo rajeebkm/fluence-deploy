@@ -1,0 +1,5 @@
+cargo:rustc-cfg=can_vector
+cargo:rustc-cfg=seek_convenience
+cargo:rustc-cfg=with_options
+cargo:rustc-cfg=write_all_vectored
+cargo:rerun-if-changed=build.rs
